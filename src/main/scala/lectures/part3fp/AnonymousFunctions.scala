@@ -37,4 +37,5 @@ object AnonymousFunctions extends App {
   println(specialAdder(2)(5))
 
   println(assert(specialAdder(2)(5) == 7))
+
 }
